@@ -1,0 +1,1682 @@
+[
+   {
+      "text": "You.",
+      "start": 330,
+      "end": 880,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5462568998336792,
+      "speaker": null
+   },
+   {
+      "text": "Prince George's County 911 center.",
+      "start": 3090,
+      "end": 5070,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8496807813644409,
+      "speaker": null
+   },
+   {
+      "text": "What is the location of the emergency across 47 nine 40th Avenue.",
+      "start": 5140,
+      "end": 11150,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8765862584114075,
+      "speaker": null
+   },
+   {
+      "text": "And it's catching fast.",
+      "start": 11730,
+      "end": 13134,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6813251972198486,
+      "speaker": null
+   },
+   {
+      "text": "47 nine?",
+      "start": 13252,
+      "end": 14880,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7810018658638,
+      "speaker": null
+   },
+   {
+      "text": "Yeah.",
+      "start": 15970,
+      "end": 16622,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5491449236869812,
+      "speaker": null
+   },
+   {
+      "text": "47 nine.",
+      "start": 16756,
+      "end": 18110,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6724087595939636,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 18260,
+      "end": 18574,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "What city is that, ma'am?",
+      "start": 18612,
+      "end": 19738,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8586432337760925,
+      "speaker": null
+   },
+   {
+      "text": "Hydesville.",
+      "start": 19834,
+      "end": 20426,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7237122654914856,
+      "speaker": null
+   },
+   {
+      "text": "Sorry.",
+      "start": 20458,
+      "end": 21040,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.5092127323150635,
+      "speaker": null
+   },
+   {
+      "text": "And what's your name?",
+      "start": 22690,
+      "end": 23854,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.744763195514679,
+      "speaker": null
+   },
+   {
+      "text": "Cynthia.",
+      "start": 23972,
+      "end": 24914,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8432332873344421,
+      "speaker": null
+   },
+   {
+      "text": "I'm sorry, Cynthia.",
+      "start": 25082,
+      "end": 26818,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.6046959161758423,
+      "speaker": null
+   },
+   {
+      "text": "Cynthia, tell me exactly what happened.",
+      "start": 26914,
+      "end": 28870,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7768844366073608,
+      "speaker": null
+   },
+   {
+      "text": "It's a fire.",
+      "start": 29020,
+      "end": 29782,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6279020309448242,
+      "speaker": null
+   },
+   {
+      "text": "The house just got fired.",
+      "start": 29836,
+      "end": 30946,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.6030575037002563,
+      "speaker": null
+   },
+   {
+      "text": "Okay, the house is on fire?",
+      "start": 30978,
+      "end": 32246,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.6529644131660461,
+      "speaker": null
+   },
+   {
+      "text": "Yeah, hold on 1 second.",
+      "start": 32348,
+      "end": 34054,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7062020301818848,
+      "speaker": null
+   },
+   {
+      "text": "Is everyone out?",
+      "start": 34172,
+      "end": 35480,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8224628567695618,
+      "speaker": null
+   },
+   {
+      "text": "Oh, God.",
+      "start": 36170,
+      "end": 36822,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.47506701946258545,
+      "speaker": null
+   },
+   {
+      "text": "Not everyone's out.",
+      "start": 36876,
+      "end": 38122,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7230942845344543,
+      "speaker": null
+   },
+   {
+      "text": "Not everyone's out?",
+      "start": 38256,
+      "end": 39514,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7388883233070374,
+      "speaker": null
+   },
+   {
+      "text": "No.",
+      "start": 39632,
+      "end": 40298,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.4936187267303467,
+      "speaker": null
+   },
+   {
+      "text": "All right, hold on 1 second.",
+      "start": 40464,
+      "end": 41770,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7680869698524475,
+      "speaker": null
+   },
+   {
+      "text": "The house is just going that fast?",
+      "start": 41920,
+      "end": 44460,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5074379444122314,
+      "speaker": null
+   },
+   {
+      "text": "Is it a single family home?",
+      "start": 52610,
+      "end": 54462,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8700810670852661,
+      "speaker": null
+   },
+   {
+      "text": "Yes.",
+      "start": 54596,
+      "end": 55326,
+      "sentiment": "POSITIVE",
+      "confidence": 0.4610389769077301,
+      "speaker": null
+   },
+   {
+      "text": "Do you know how many floors or stories there are?",
+      "start": 55508,
+      "end": 57774,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8638127446174622,
+      "speaker": null
+   },
+   {
+      "text": "Two.",
+      "start": 57892,
+      "end": 58414,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.56914883852005,
+      "speaker": null
+   },
+   {
+      "text": "Two?",
+      "start": 58532,
+      "end": 59198,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6997805237770081,
+      "speaker": null
+   },
+   {
+      "text": "Yeah.",
+      "start": 59364,
+      "end": 60080,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5491449236869812,
+      "speaker": null
+   },
+   {
+      "text": "And you said there are people inside?",
+      "start": 63650,
+      "end": 65566,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6411640048027039,
+      "speaker": null
+   },
+   {
+      "text": "Yes.",
+      "start": 65748,
+      "end": 66480,
+      "sentiment": "POSITIVE",
+      "confidence": 0.4610389769077301,
+      "speaker": null
+   },
+   {
+      "text": "The call is in.",
+      "start": 67510,
+      "end": 68562,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.678554117679596,
+      "speaker": null
+   },
+   {
+      "text": "Stay on the line.",
+      "start": 68616,
+      "end": 69282,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.689398467540741,
+      "speaker": null
+   },
+   {
+      "text": "I need to know how many are inside.",
+      "start": 69336,
+      "end": 70882,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.846936821937561,
+      "speaker": null
+   },
+   {
+      "text": "Do you know?",
+      "start": 70936,
+      "end": 71730,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7451761960983276,
+      "speaker": null
+   },
+   {
+      "text": "I don't know.",
+      "start": 71880,
+      "end": 72386,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5666733384132385,
+      "speaker": null
+   },
+   {
+      "text": "I'm going across the street.",
+      "start": 72408,
+      "end": 74050,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.825281023979187,
+      "speaker": null
+   },
+   {
+      "text": "Do you know how many children live in that house?",
+      "start": 78410,
+      "end": 80440,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5965194702148438,
+      "speaker": null
+   },
+   {
+      "text": "Three.",
+      "start": 81210,
+      "end": 81574,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5679552555084229,
+      "speaker": null
+   },
+   {
+      "text": "I think it's do you know exactly?",
+      "start": 81612,
+      "end": 89100,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.86473548412323,
+      "speaker": null
+   },
+   {
+      "text": "I can't get any closer.",
+      "start": 90590,
+      "end": 92294,
+      "sentiment": "POSITIVE",
+      "confidence": 0.43557271361351013,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 92422,
+      "end": 93146,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "Who's that screaming?",
+      "start": 93328,
+      "end": 94246,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6545006632804871,
+      "speaker": null
+   },
+   {
+      "text": "Are they the owners?",
+      "start": 94278,
+      "end": 95174,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8041318655014038,
+      "speaker": null
+   },
+   {
+      "text": "Yes.",
+      "start": 95302,
+      "end": 95786,
+      "sentiment": "POSITIVE",
+      "confidence": 0.4610389769077301,
+      "speaker": null
+   },
+   {
+      "text": "Okay, can you ask them if there's anybody inside and where Marcus?",
+      "start": 95888,
+      "end": 100618,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.878642737865448,
+      "speaker": null
+   },
+   {
+      "text": "Who's inside where?",
+      "start": 100714,
+      "end": 102400,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8294504284858704,
+      "speaker": null
+   },
+   {
+      "text": "I'm on the phone with 911.",
+      "start": 103010,
+      "end": 105360,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7015793919563293,
+      "speaker": null
+   },
+   {
+      "text": "Who's in there?",
+      "start": 107730,
+      "end": 108670,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8188551664352417,
+      "speaker": null
+   },
+   {
+      "text": "How many people are still inside?",
+      "start": 108740,
+      "end": 110720,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7750813961029053,
+      "speaker": null
+   },
+   {
+      "text": "He's not listening to me.",
+      "start": 113490,
+      "end": 114990,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.7833021283149719,
+      "speaker": null
+   },
+   {
+      "text": "His wife is trying to get back inside.",
+      "start": 115060,
+      "end": 116850,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8312393426895142,
+      "speaker": null
+   },
+   {
+      "text": "Okay, tell him not to go back inside.",
+      "start": 117000,
+      "end": 119300,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6425445079803467,
+      "speaker": null
+   },
+   {
+      "text": "Oh, dear God.",
+      "start": 120790,
+      "end": 121922,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5757588744163513,
+      "speaker": null
+   },
+   {
+      "text": "Just try to find out who's inside and where they are.",
+      "start": 122056,
+      "end": 124626,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8694928884506226,
+      "speaker": null
+   },
+   {
+      "text": "He's not listening to me.",
+      "start": 124728,
+      "end": 125746,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.7833021283149719,
+      "speaker": null
+   },
+   {
+      "text": "I can't get closer because all right, the calls in, they're on the way.",
+      "start": 125768,
+      "end": 130854,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.4971334636211395,
+      "speaker": null
+   },
+   {
+      "text": "Okay?",
+      "start": 130892,
+      "end": 131094,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7123859524726868,
+      "speaker": null
+   },
+   {
+      "text": "So whatever information you can gather is going to be helpful to us.",
+      "start": 131132,
+      "end": 134438,
+      "sentiment": "POSITIVE",
+      "confidence": 0.8243867754936218,
+      "speaker": null
+   },
+   {
+      "text": "Do you know what floor is on fire?",
+      "start": 134604,
+      "end": 136342,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6853426098823547,
+      "speaker": null
+   },
+   {
+      "text": "Oh, dear God.",
+      "start": 136476,
+      "end": 137800,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5757588744163513,
+      "speaker": null
+   },
+   {
+      "text": "It was power line.",
+      "start": 139610,
+      "end": 141734,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8277733325958252,
+      "speaker": null
+   },
+   {
+      "text": "Power line?",
+      "start": 141852,
+      "end": 142550,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8211325407028198,
+      "speaker": null
+   },
+   {
+      "text": "Yeah, the power line is burning off of the house.",
+      "start": 142620,
+      "end": 144586,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.7744932770729065,
+      "speaker": null
+   },
+   {
+      "text": "Okay, did it go down or is it burning?",
+      "start": 144688,
+      "end": 146810,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6668872237205505,
+      "speaker": null
+   },
+   {
+      "text": "It's disconnected from the house.",
+      "start": 147150,
+      "end": 148922,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5484491586685181,
+      "speaker": null
+   },
+   {
+      "text": "Okay, you said it was the first floor on fire?",
+      "start": 148976,
+      "end": 150960,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5521326661109924,
+      "speaker": null
+   },
+   {
+      "text": "Yeah.",
+      "start": 151490,
+      "end": 152142,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5491449236869812,
+      "speaker": null
+   },
+   {
+      "text": "All right.",
+      "start": 152276,
+      "end": 153214,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.48966991901397705,
+      "speaker": null
+   },
+   {
+      "text": "It's a house that was built in the 20s.",
+      "start": 153412,
+      "end": 155838,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8553968071937561,
+      "speaker": null
+   },
+   {
+      "text": "Like, it's so popular here, and it's a pointed roof, and they have stairs up to it and a couple of bedrooms up there probably.",
+      "start": 155844,
+      "end": 168290,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.4868341386318207,
+      "speaker": null
+   },
+   {
+      "text": "I've never been in the house.",
+      "start": 168440,
+      "end": 169940,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.4972881078720093,
+      "speaker": null
+   },
+   {
+      "text": "Hold on 1 second.",
+      "start": 170630,
+      "end": 171954,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.695903480052948,
+      "speaker": null
+   },
+   {
+      "text": "My roommate, Don Watson, is on the line, too, so I guess he called nine one.",
+      "start": 172152,
+      "end": 176386,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8840943574905396,
+      "speaker": null
+   },
+   {
+      "text": "He's calling 911 as well.",
+      "start": 176408,
+      "end": 177730,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6601050496101379,
+      "speaker": null
+   },
+   {
+      "text": "Yeah.",
+      "start": 177800,
+      "end": 178082,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5491449236869812,
+      "speaker": null
+   },
+   {
+      "text": "All right, like I said, if you can find out from the owners where the people are inside, that's what we need to know now.",
+      "start": 178136,
+      "end": 184230,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8604342937469482,
+      "speaker": null
+   },
+   {
+      "text": "We got everybody on the way, so now we need to know where everybody is.",
+      "start": 184300,
+      "end": 188140,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7536125779151917,
+      "speaker": null
+   },
+   {
+      "text": "Okay, I'm trying to get back around the side of the neighbor's house.",
+      "start": 188510,
+      "end": 195420,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8398489952087402,
+      "speaker": null
+   },
+   {
+      "text": "Yes, ma'am, we do have it.",
+      "start": 199150,
+      "end": 201946,
+      "sentiment": "POSITIVE",
+      "confidence": 0.5546688437461853,
+      "speaker": null
+   },
+   {
+      "text": "We do have a phone for the fire department.",
+      "start": 201968,
+      "end": 204090,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8175538778305054,
+      "speaker": null
+   },
+   {
+      "text": "Hello?",
+      "start": 204510,
+      "end": 205018,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6430088877677917,
+      "speaker": null
+   },
+   {
+      "text": "I can hear it.",
+      "start": 205104,
+      "end": 206022,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6328985095024109,
+      "speaker": null
+   },
+   {
+      "text": "Okay, why are you out of breath?",
+      "start": 206096,
+      "end": 207790,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.6189606785774231,
+      "speaker": null
+   },
+   {
+      "text": "Are you still there?",
+      "start": 208210,
+      "end": 209102,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8358714580535889,
+      "speaker": null
+   },
+   {
+      "text": "I'm here.",
+      "start": 209156,
+      "end": 209614,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.4972038269042969,
+      "speaker": null
+   },
+   {
+      "text": "All right, if it's safe to do so, keep by Sanders away from the area.",
+      "start": 209652,
+      "end": 212302,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7968114614486694,
+      "speaker": null
+   },
+   {
+      "text": "Marcos?",
+      "start": 212436,
+      "end": 213550,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7167004942893982,
+      "speaker": null
+   },
+   {
+      "text": "Marcos, where are you?",
+      "start": 214130,
+      "end": 215614,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7759527564048767,
+      "speaker": null
+   },
+   {
+      "text": "Can everybody get you are all out.",
+      "start": 215732,
+      "end": 218174,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7002038955688477,
+      "speaker": null
+   },
+   {
+      "text": "Marthos, what's your address?",
+      "start": 218212,
+      "end": 219746,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8626231551170349,
+      "speaker": null
+   },
+   {
+      "text": "He's inside.",
+      "start": 219848,
+      "end": 220594,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7407198548316956,
+      "speaker": null
+   },
+   {
+      "text": "Where are they?",
+      "start": 220712,
+      "end": 221266,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7840721607208252,
+      "speaker": null
+   },
+   {
+      "text": "I've got the fire department.",
+      "start": 221288,
+      "end": 222770,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6709328293800354,
+      "speaker": null
+   },
+   {
+      "text": "Where is he?",
+      "start": 224310,
+      "end": 225460,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7725088000297546,
+      "speaker": null
+   },
+   {
+      "text": "His daughter's inside.",
+      "start": 225930,
+      "end": 227382,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7781727910041809,
+      "speaker": null
+   },
+   {
+      "text": "The father or daughter?",
+      "start": 227516,
+      "end": 229170,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8022741079330444,
+      "speaker": null
+   },
+   {
+      "text": "How old is the daughter?",
+      "start": 229330,
+      "end": 230710,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8835775852203369,
+      "speaker": null
+   },
+   {
+      "text": "She's less than 1212.",
+      "start": 233050,
+      "end": 235030,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7748400568962097,
+      "speaker": null
+   },
+   {
+      "text": "Do you know where inside they are?",
+      "start": 235100,
+      "end": 237000,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8417180180549622,
+      "speaker": null
+   },
+   {
+      "text": "No.",
+      "start": 239550,
+      "end": 239914,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.4936187267303467,
+      "speaker": null
+   },
+   {
+      "text": "I got a second party.",
+      "start": 239952,
+      "end": 241210,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7826797962188721,
+      "speaker": null
+   },
+   {
+      "text": "Ma'am?",
+      "start": 243630,
+      "end": 244294,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7439587712287903,
+      "speaker": null
+   },
+   {
+      "text": "Yeah, the address that you gave me, is that the house that's on fire?",
+      "start": 244422,
+      "end": 247340,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5801315903663635,
+      "speaker": null
+   },
+   {
+      "text": "Yes, it is.",
+      "start": 247710,
+      "end": 248570,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5537595152854919,
+      "speaker": null
+   },
+   {
+      "text": "And it's 47 nine?",
+      "start": 248640,
+      "end": 250380,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7321007251739502,
+      "speaker": null
+   },
+   {
+      "text": "Yeah.",
+      "start": 250910,
+      "end": 251526,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5491449236869812,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 251648,
+      "end": 252126,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "Do you know where the daughter is?",
+      "start": 252228,
+      "end": 253950,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8314881324768066,
+      "speaker": null
+   },
+   {
+      "text": "No, he won't.",
+      "start": 254100,
+      "end": 255310,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5985485911369324,
+      "speaker": null
+   },
+   {
+      "text": "Upstairs.",
+      "start": 256130,
+      "end": 257034,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7441984415054321,
+      "speaker": null
+   },
+   {
+      "text": "The kids are upstairs.",
+      "start": 257162,
+      "end": 258410,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8023676872253418,
+      "speaker": null
+   },
+   {
+      "text": "The kids are upstairs?",
+      "start": 258490,
+      "end": 259514,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8142542839050293,
+      "speaker": null
+   },
+   {
+      "text": "That's the little one?",
+      "start": 259562,
+      "end": 260590,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8102127909660339,
+      "speaker": null
+   },
+   {
+      "text": "We don't know.",
+      "start": 260660,
+      "end": 261326,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6351645588874817,
+      "speaker": null
+   },
+   {
+      "text": "We don't know.",
+      "start": 261428,
+      "end": 262480,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6351645588874817,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 263330,
+      "end": 264080,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "There may be two children upstairs.",
+      "start": 265410,
+      "end": 267194,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8963047862052917,
+      "speaker": null
+   },
+   {
+      "text": "There's definitely one child upstairs coming.",
+      "start": 267242,
+      "end": 272558,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8107503652572632,
+      "speaker": null
+   },
+   {
+      "text": "They're coming.",
+      "start": 272724,
+      "end": 273680,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7197379469871521,
+      "speaker": null
+   },
+   {
+      "text": "Please don't back inside.",
+      "start": 274210,
+      "end": 275880,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5512487292289734,
+      "speaker": null
+   },
+   {
+      "text": "Hi, ma'am.",
+      "start": 276730,
+      "end": 277750,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6388939023017883,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 278650,
+      "end": 279062,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "Is that the mother and the father?",
+      "start": 279116,
+      "end": 282786,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8660780191421509,
+      "speaker": null
+   },
+   {
+      "text": "The neighbor on the other side?",
+      "start": 282898,
+      "end": 284678,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8134467601776123,
+      "speaker": null
+   },
+   {
+      "text": "I'm sorry.",
+      "start": 284844,
+      "end": 285622,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.64554762840271,
+      "speaker": null
+   },
+   {
+      "text": "The neighbor on the other side just came over to me and said that there are two kids.",
+      "start": 285756,
+      "end": 290460,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8086228370666504,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 296190,
+      "end": 296554,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "Do you know so you don't know if anyone is inside of the house?",
+      "start": 296592,
+      "end": 299820,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.691819965839386,
+      "speaker": null
+   },
+   {
+      "text": "I called you just moments after the fire.",
+      "start": 300590,
+      "end": 306350,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7930547595024109,
+      "speaker": null
+   },
+   {
+      "text": "Do you know what caused it?",
+      "start": 306420,
+      "end": 307694,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7366796731948853,
+      "speaker": null
+   },
+   {
+      "text": "No.",
+      "start": 307812,
+      "end": 308238,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.4936187267303467,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 308324,
+      "end": 308960,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "And where are the flames coming?",
+      "start": 309730,
+      "end": 310814,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6693142056465149,
+      "speaker": null
+   },
+   {
+      "text": "Are they in the front of the house?",
+      "start": 310852,
+      "end": 311726,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8771687150001526,
+      "speaker": null
+   },
+   {
+      "text": "In the back of the house?",
+      "start": 311748,
+      "end": 312414,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8249310255050659,
+      "speaker": null
+   },
+   {
+      "text": "People are in the back?",
+      "start": 312452,
+      "end": 313486,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6311278343200684,
+      "speaker": null
+   },
+   {
+      "text": "Flames are in the back.",
+      "start": 313588,
+      "end": 314590,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6784036755561829,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 314660,
+      "end": 315134,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "The flames are in the front?",
+      "start": 315252,
+      "end": 316446,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7759780287742615,
+      "speaker": null
+   },
+   {
+      "text": "Flames are in the front.",
+      "start": 316548,
+      "end": 317522,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6799258589744568,
+      "speaker": null
+   },
+   {
+      "text": "And you said they were coming from the first floor?",
+      "start": 317656,
+      "end": 320062,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7341696619987488,
+      "speaker": null
+   },
+   {
+      "text": "Yeah.",
+      "start": 320206,
+      "end": 320562,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5491449236869812,
+      "speaker": null
+   },
+   {
+      "text": "Is the first floor below ground or above ground?",
+      "start": 320616,
+      "end": 323090,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8768811225891113,
+      "speaker": null
+   },
+   {
+      "text": "It's on the ground.",
+      "start": 323750,
+      "end": 324926,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7195390462875366,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 325038,
+      "end": 325602,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "It's on the ground.",
+      "start": 325736,
+      "end": 326526,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7195390462875366,
+      "speaker": null
+   },
+   {
+      "text": "You should be seeing the fire department.",
+      "start": 326558,
+      "end": 327714,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5336517691612244,
+      "speaker": null
+   },
+   {
+      "text": "I do you see them, make sure they let them know where and how many are inside.",
+      "start": 327762,
+      "end": 332966,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8824723958969116,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 333068,
+      "end": 333430,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "Everybody's in the backyard.",
+      "start": 333500,
+      "end": 334834,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7453672289848328,
+      "speaker": null
+   },
+   {
+      "text": "I'm going around to the front.",
+      "start": 334882,
+      "end": 336440,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8006038069725037,
+      "speaker": null
+   },
+   {
+      "text": "Yeah.",
+      "start": 338090,
+      "end": 338550,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5491449236869812,
+      "speaker": null
+   },
+   {
+      "text": "Try to get to them and let them know that there are kids inside.",
+      "start": 338620,
+      "end": 341078,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.761981189250946,
+      "speaker": null
+   },
+   {
+      "text": "Yeah.",
+      "start": 341244,
+      "end": 341960,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5491449236869812,
+      "speaker": null
+   },
+   {
+      "text": "Did they say in the back, in the front, where the bedrooms were in the house?",
+      "start": 345550,
+      "end": 349802,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8789485692977905,
+      "speaker": null
+   },
+   {
+      "text": "No.",
+      "start": 349936,
+      "end": 350534,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.4936187267303467,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 350672,
+      "end": 351360,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "Just let them know there possibly two kids in the upstairs area.",
+      "start": 354210,
+      "end": 357646,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8896244764328003,
+      "speaker": null
+   },
+   {
+      "text": "Yeah, I will.",
+      "start": 357828,
+      "end": 359600,
+      "sentiment": "POSITIVE",
+      "confidence": 0.6266465783119202,
+      "speaker": null
+   },
+   {
+      "text": "Yo, she is.",
+      "start": 362470,
+      "end": 370980,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6576218008995056,
+      "speaker": null
+   },
+   {
+      "text": "Fire department upstairs.",
+      "start": 372550,
+      "end": 376630,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7265494465827942,
+      "speaker": null
+   },
+   {
+      "text": "That's lady trying to get to the fireman can't hear me.",
+      "start": 379690,
+      "end": 383574,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5353153347969055,
+      "speaker": null
+   },
+   {
+      "text": "Did they hear you?",
+      "start": 383612,
+      "end": 384518,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8075774312019348,
+      "speaker": null
+   },
+   {
+      "text": "No.",
+      "start": 384604,
+      "end": 385240,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.4936187267303467,
+      "speaker": null
+   },
+   {
+      "text": "Okay, just a second.",
+      "start": 387870,
+      "end": 389580,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.720177948474884,
+      "speaker": null
+   },
+   {
+      "text": "My call is yelling to the fire guys.",
+      "start": 394510,
+      "end": 396330,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5810254812240601,
+      "speaker": null
+   },
+   {
+      "text": "Two guys upstairs.",
+      "start": 396400,
+      "end": 397126,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8380558490753174,
+      "speaker": null
+   },
+   {
+      "text": "Two kids upstairs.",
+      "start": 397158,
+      "end": 398330,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8430978655815125,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 399470,
+      "end": 400074,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "All right.",
+      "start": 400192,
+      "end": 400730,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.48966991901397705,
+      "speaker": null
+   },
+   {
+      "text": "You told them?",
+      "start": 400800,
+      "end": 401820,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7225023508071899,
+      "speaker": null
+   },
+   {
+      "text": "Yeah.",
+      "start": 402270,
+      "end": 402922,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5491449236869812,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 403056,
+      "end": 403498,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "Let me make sure he's good.",
+      "start": 403584,
+      "end": 405174,
+      "sentiment": "POSITIVE",
+      "confidence": 0.5825535655021667,
+      "speaker": null
+   },
+   {
+      "text": "Now, the power line that blew up, do you still see it?",
+      "start": 405232,
+      "end": 407758,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.6306988596916199,
+      "speaker": null
+   },
+   {
+      "text": "Yeah.",
+      "start": 407844,
+      "end": 408286,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5491449236869812,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 408388,
+      "end": 409040,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "Is it on the ground or is it up in the air?",
+      "start": 409890,
+      "end": 411774,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8603327870368958,
+      "speaker": null
+   },
+   {
+      "text": "It's on the ground.",
+      "start": 411812,
+      "end": 412910,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7195390462875366,
+      "speaker": null
+   },
+   {
+      "text": "Can you point that out to some of the firefighters so they know?",
+      "start": 413890,
+      "end": 416690,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8771523833274841,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 416760,
+      "end": 417380,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "All right.",
+      "start": 418310,
+      "end": 418738,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.48966991901397705,
+      "speaker": null
+   },
+   {
+      "text": "Do you want me to stay on the line with you?",
+      "start": 418744,
+      "end": 420260,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8647348880767822,
+      "speaker": null
+   },
+   {
+      "text": "Okay, somebody heard me.",
+      "start": 422150,
+      "end": 423346,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6949712038040161,
+      "speaker": null
+   },
+   {
+      "text": "Now, where are the power lines down, man?",
+      "start": 423368,
+      "end": 427142,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5826139450073242,
+      "speaker": null
+   },
+   {
+      "text": "On what side of the house?",
+      "start": 427196,
+      "end": 428230,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8659989833831787,
+      "speaker": null
+   },
+   {
+      "text": "Side of the house.",
+      "start": 428300,
+      "end": 429222,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6286985874176025,
+      "speaker": null
+   },
+   {
+      "text": "The side of the house facing the house?",
+      "start": 429356,
+      "end": 431318,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8194792866706848,
+      "speaker": null
+   },
+   {
+      "text": "To the right.",
+      "start": 431404,
+      "end": 432166,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8221465349197388,
+      "speaker": null
+   },
+   {
+      "text": "To the right?",
+      "start": 432268,
+      "end": 433094,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8575002551078796,
+      "speaker": null
+   },
+   {
+      "text": "Yeah.",
+      "start": 433212,
+      "end": 433880,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5491449236869812,
+      "speaker": null
+   },
+   {
+      "text": "The dragon clothes over it to get anywhere.",
+      "start": 438010,
+      "end": 441506,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7555636763572693,
+      "speaker": null
+   },
+   {
+      "text": "All right.",
+      "start": 441618,
+      "end": 441926,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.48966991901397705,
+      "speaker": null
+   },
+   {
+      "text": "Everybody's there?",
+      "start": 441948,
+      "end": 442920,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8339052200317383,
+      "speaker": null
+   },
+   {
+      "text": "Yeah.",
+      "start": 443770,
+      "end": 444278,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5491449236869812,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 444364,
+      "end": 445000,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "All right.",
+      "start": 445530,
+      "end": 446006,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.48966991901397705,
+      "speaker": null
+   },
+   {
+      "text": "You okay?",
+      "start": 446028,
+      "end": 446614,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7438897490501404,
+      "speaker": null
+   },
+   {
+      "text": "Yes, I'm fine.",
+      "start": 446732,
+      "end": 447750,
+      "sentiment": "POSITIVE",
+      "confidence": 0.8892320394515991,
+      "speaker": null
+   },
+   {
+      "text": "All right.",
+      "start": 447820,
+      "end": 448134,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.48966991901397705,
+      "speaker": null
+   },
+   {
+      "text": "You did a good job.",
+      "start": 448172,
+      "end": 448982,
+      "sentiment": "POSITIVE",
+      "confidence": 0.9302370548248291,
+      "speaker": null
+   },
+   {
+      "text": "Okay.",
+      "start": 449036,
+      "end": 449640,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5843514800071716,
+      "speaker": null
+   },
+   {
+      "text": "All right.",
+      "start": 450050,
+      "end": 450880,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.48966991901397705,
+      "speaker": null
+   },
+   {
+      "text": "Bye.",
+      "start": 451490,
+      "end": 451866,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5137449502944946,
+      "speaker": null
+   },
+   {
+      "text": "Bye, Ma'am.",
+      "start": 451898,
+      "end": 452394,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6976534724235535,
+      "speaker": null
+   },
+   {
+      "text": "Okay, bye.",
+      "start": 452442,
+      "end": 453114,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5392400026321411,
+      "speaker": null
+   }
+]

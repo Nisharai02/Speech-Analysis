@@ -19,11 +19,11 @@ headers = {
 with open(audio_file, "rb") as f:
   response = requests.post(base_url + "/upload",headers=headers,data=f)
 
-print(response.content)
 upload_url = response.json()["upload_url"]
 
 data = {
-    "audio_url": upload_url 
+    "audio_url": upload_url,
+    "sentiment_analysis" : True
 }
 
 # making the post request
@@ -34,12 +34,14 @@ response = requests.post(url, json=data, headers=headers)
 transcript_id = response.json()['id']
 polling_endpoint = f"https://api.assemblyai.com/v2/transcript/{transcript_id}"
 
-# loop around until id is available i.e status is completed
+# loop around until status is completed is available i.e status is completed
 while True:
   transcription_result = requests.get(polling_endpoint, headers=headers).json()
 
   if transcription_result['status'] == 'completed':
-    print(transcription_result['text'])
+    transcript_file = "transcripts.txt"
+    with open(transcript_file,"w") as tf:
+      json.dump(transcription_result['text'],tf)
     break
 
   elif transcription_result['status'] == 'error':
@@ -47,3 +49,21 @@ while True:
 
   else:
     time.sleep(3)
+
+# saving the sentiment analysis results in a separate file
+sent_res_file_name = "sent_analysis_res.txt"
+with open(sent_res_file_name,"w") as f:
+  sent_res = transcription_result["sentiment_analysis_results"]
+  json.dump(sent_res,f, indent=3)
+
+pos, neg, neut = 0, 0, 0
+for each_line_ana_res in sent_res:
+  if each_line_ana_res["sentiment"] == "NEUTRAL":
+    neut += 1
+  elif each_line_ana_res["sentiment"] == "POSITIVE":
+    pos += 1
+  else:
+    neg += 1
+
+print(f"Neutral: {neut}\nPositive: {pos}\nNegative: {neg}")
+

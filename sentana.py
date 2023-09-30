@@ -4,12 +4,12 @@ import json
 import time
 import pandas as pd
 
-api_key = "186314e463ab4e3d9ce69fd7a143038b"
+api_key = ""
 
 # uploading the audio file to assemblyai api, using a post method
 audio_file = "datasets\call_111.mp3"
 # setting up api endpoints and header
-base_url = "https://api.assemblyai.com/v2"
+base_url = "https://api.assemblyai.com/v2/"
 
 headers = {
     "authorization": api_key
